@@ -1,2 +1,2 @@
 # FoxNewsMVCExport
-Fox News Project Created Following Kony Reference Architecture
+Fox News Project Created Following Kony Reference Architecture using Visualizer Enterprise 8.0
